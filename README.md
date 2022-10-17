@@ -4,5 +4,5 @@
 
 <p>Datacamp</p>
 <ol>
-  <li>Introduction to Oracle Sql </li>
+  <li>Introduction to Oracle Sql</li>
 </ol>
